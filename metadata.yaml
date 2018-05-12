@@ -1,0 +1,47 @@
+_repo: Unsichtbare-Bande--Erz-hlungen_33041
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Franzos, Marie
+    alias: Franzos, Mizi
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '9157'
+    url: http://www.gutenberg.org/2009/agents/9157
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33041'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Fiction'
+tableOfContents: Peter Nord und Frau Fastenzeit -- Die Legende vom Vogelnest -- Das
+  Hünengrab -- Die Vogelfreien -- Reors Geschichte -- Waldemar Attertag brandschatzt
+  Visby -- Mamsell Friederike -- Der Roman einer Fischersfrau -- Mutters Bild -- Ein
+  gefallener König -- Ein Weihnachtsgast -- Onkel Ruben -- Das Flaumvögelchen -- Unter
+  den Kletterrosen -- Die Grabschrift -- Römerblut -- Die Rache bleibt nicht aus --
+  Die Geisterhand.
+title: 'Unsichtbare Bande: Erzählungen'
+url: http://www.gutenberg.org/ebooks/33041
